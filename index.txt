@@ -6,3 +6,6 @@ parrafo 1
 
 TITULO 3
 parrafo 1
+
+PROBLEMA 2
+parrafo 1
