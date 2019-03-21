@@ -2,4 +2,7 @@ TITULO 1
 parrafo 1
 
 TITULO 2
-parrafo 2
+parrafo 1
+
+TITULO 3
+parrafo 1
